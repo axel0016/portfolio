@@ -227,3 +227,19 @@ ul#divers li img {
 li:hover {
     transform: scale(1.1);
 }
+.main-btn{
+    color: #6b6c74;
+    background-color: #bdbfcf;
+    text-decoration: none;
+    font-size: 1.1em;
+    font-weight: 600;
+    display: inline-block;
+    padding: 0.9375em 2.1875em;
+    letter-spacing: 1px;
+    border-radius: 12.5px;
+    transition: 0.7s ease;
+    
+}
+.main-btn:hover{
+    scale: 1.1;
+}
