@@ -23,6 +23,10 @@ header a img{
     width: 1.7em;
     float: absolute;
 }
+.imo:hover{
+    transform: scale(1.05);
+    
+}
 .logo{
     text-decoration: none;
     color: #afb2c4;
